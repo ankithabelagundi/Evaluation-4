@@ -12,5 +12,5 @@ app.use("/people",peopleRoutes);
 app.use("vehicles",vehicleRoutes);
 app.use("/trips",tripRoutes);
 app.use("/analytics",analyticsRoutes);
-app.use(not found);
+app.use(notFound);
 module.exports =app;
