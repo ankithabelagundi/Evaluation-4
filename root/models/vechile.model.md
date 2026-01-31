@@ -1,0 +1,2 @@
+table:vehicles 
+columns:id,name,registration_number,allowed_passengers,IsAvailable,driver_id,rate_per_km,owner_id

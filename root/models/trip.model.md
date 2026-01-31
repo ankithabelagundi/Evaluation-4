@@ -1,0 +1,1 @@
+table:trips columns:id,customerid,vehicles_id,start_date,end_date,distance_km,tripCost,isCompleted
